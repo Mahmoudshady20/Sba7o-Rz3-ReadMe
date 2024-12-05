@@ -13,7 +13,7 @@
 ## 📲 Installation Guide:
 
 You can download **Sba7o Rz3** directly from the Google Play Store:  
-[![Download from Google Play](https://img.shields.io/badge/Google%20Play-Sba7o-Rz3-green?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mahmoudshady.sba7o_kora)
+[![Download from Google Play](https://img.shields.io/badge/Google%20Play-Sba7oRz3-green?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mahmoudshady.sba7o_kora)
 <br>
 
 ---
